@@ -1,8 +1,8 @@
 package iphone.apps.ipod;
 
 public interface ReprodutorMusical {
-    void tocar();
+    public void tocar();
 
-    void pausar();
-    void selecionarMusica();
+    public void pausar();
+    public void selecionarMusica();
 }
