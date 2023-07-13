@@ -1,8 +1,8 @@
 package iphone.apps.phone;
 
 public interface AparelhoTelefonico {
-    public void ligar();
+    void ligar();
 
-    public void atender();
-    public void iniciarCorrerioVoz();
+    void atender();
+    void iniciarCorrerioVoz();
 }
