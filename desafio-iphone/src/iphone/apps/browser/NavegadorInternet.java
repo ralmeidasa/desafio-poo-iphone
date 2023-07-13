@@ -1,9 +1,9 @@
 package iphone.apps.browser;
 
 public interface NavegadorInternet {
-    public void exibirPagina();
+    void exibirPagina();
 
-    public void adicionarNovaAba();
+    void adicionarNovaAba();
 
-    public void atualizarPagina();
+    void atualizarPagina();
 }
